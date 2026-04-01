@@ -1,4 +1,4 @@
-const CACHE_NAME = "manal-cv-cache-v2";
+const CACHE_NAME = "manal-cv-cache-v3";
 const STATIC_ASSETS = ["/manifest.webmanifest", "/icons/icon.svg"];
 
 self.addEventListener("install", (event) => {
